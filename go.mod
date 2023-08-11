@@ -1,4 +1,4 @@
-module andboson/structs
+module  github.com/andboson/structs
 
 go 1.20
 
