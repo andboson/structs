@@ -1,4 +1,4 @@
-## chnagelog
+## changelog
 
 * added decimal package to format float64 as decimal numbers
 
