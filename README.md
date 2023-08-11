@@ -1,3 +1,7 @@
+## chnagelog
+
+* added decimal package to format float64 as decimal numbers
+
 # Archived project. No maintenance. 
 
 This project is not maintained anymore and is archived. Feel free to fork and
